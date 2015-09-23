@@ -1,3 +1,8 @@
+---
+layout: page
+
+---
+
 ##Welcome to Pre-MAP!
 Welcome to the Pre-Major in Astronomy Program (Pre-MAP)! This website will serve as the page for the Fall 2015 Pre-MAP cohort (cohort 11). If you are looking for the general Pre-MAP homepage please see [here](http://www.astro.washington.edu/users/premap/). The goal of the Pre-MAP seminar is to have the opportunity to do real scientific research while at the same time providing the essential tools necessary to excel as a scientist and researcher. In addition to the seminar itself we will have social events throughout the year to build community between the Pre-MAP cohorts and the astronomy department as a whole.
 
