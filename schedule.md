@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /Pre-MAP/schedule/
+permalink: /schedule/
 ---
 
 
