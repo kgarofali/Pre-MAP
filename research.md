@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research Projects
-permalink: kgarofali.github.io/Pre-MAP/projects/
+permalink: /Pre-MAP/projects/
 
 ---
 

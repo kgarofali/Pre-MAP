@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: kgarofali.github.io/Pre-MAP/schedule/
+permalink: /Pre-MAP/schedule/
 ---
 
 
