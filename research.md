@@ -40,6 +40,8 @@ Students will analyze data from the Kepler spacecraft, looking for systems with 
 
 **Advisors:** Lisa McBride and Dr. Rahul Biswas 
 
+<img src="../images/rahul_lisa.jpg">
+
 **Description:** We now know that the universe is expanding at an accelerating rate due to the presence of dark energy. In order to better understand the nature of dark energy we will explore the effects that different expansion histories of the universe have on various observables. Here, we will work on some of key steps in supernova cosmology, where the intensity of light from supernovae Type Ia (SNIa), which are exploding stars of a specific kind, are recorded as a function of time (called light curves) and used to constrain models of cosmic expansion history.
 
 Usually, supernova cosmology involves characterizing supernova light curves in terms of emperical models, and using these to constrain cosmic expansion. This project will involve studying characterization of such light curves mostly using a python based code called [SNCosmo](http://sncosmo.github.io), and simulated data for the [LSST](http://www.lsst.org/), one of the largest upcoming optical ground-based surveys, and one in which the UW astronomy department is deeply engaged in. A major difference between current and future large surveys and older supernova surveys is that the newer surveys will have too many supernovae to follow-up spectroscopically. This study can assess some aspects (like determination of redshift) of the impact of this difference for LSST.
