@@ -8,7 +8,7 @@ permalink: projects/
 
 ## ASTR 192: Research Projects Autumn 2015
 
-Below are descriptions of the possible research projects you will work on this quarter. You can find a PDF version [here](link). The advisers listed below will present their projects for 5-10 minutes in class on Friday, October 9th. As part of Writing Assignment 2, you will rank the three projects you find most interesting, explain why they interest you in a couple of sentences, and let me know via email (garofali [at] uw [dot] edu) by October 11th. I will make the final project assignments, splitting you into teams of two, and let you know who your partners and mentors are in class on Monday, October 12th.
+Below are descriptions of the possible research projects you will work on this quarter. You can find a PDF version [here](../docs/researchprojects.pdf). The advisers listed below will present their projects for 5-10 minutes in class on Friday, October 9th. As part of Writing Assignment 2, you will rank the three projects you find most interesting, explain why they interest you in a couple of sentences, and let me know via email (garofali [at] uw [dot] edu) by October 11th. I will make the final project assignments, splitting you into teams of two, and let you know who your partners and mentors are in class on Monday, October 12th.
 
 # Testing our Models for the Stuff Between Galaxies 
 <figure>
@@ -29,7 +29,7 @@ Below are descriptions of the possible research projects you will work on this q
 
 **Advisors**: [John Lurie](http://staff.washington.edu/lurie/), [Professor Suzanne Hawley](http://www.astro.washington.edu/users/slh/), and [Kolby Weisenberger](http://staff.washington.edu/kweis/)
 
-**Description:** Stars are the fundamental building blocks of galaxies. They emit enormous amounts of energy and produce all of the elements beyond hydrogen and helium, not to mention hosting planets. Determining the fundamental properties of stars — such as their masses, diameters and ages — is a major goal for astronomers. An eclipsing binary is a system of two stars that orbit each other, periodically passing in front of one another as seen from the Earth.The special nature of such systems allows us to determine the stars’ masses and diameters. Furthermore, many stars have spots like those on the Sun. From the spots we can measure how fast the stars are rotating, which tells us about their ages and magnetic fields. 
+**Description:** Stars are the fundamental building blocks of galaxies. They emit enormous amounts of energy and produce all of the elements beyond hydrogen and helium, not to mention hosting planets. Determining the fundamental properties of stars — such as their masses, diameters and ages — is a major goal for astronomers. An eclipsing binary is a system of two stars that orbit each other, periodically passing in front of one another as seen from the Earth. The special nature of such systems allows us to determine the stars’ masses and diameters. Furthermore, many stars have spots like those on the Sun. From the spots we can measure how fast the stars are rotating, which tells us about their ages and magnetic fields. 
 
 Students will analyze data from the Kepler spacecraft, looking for systems with three distinct cycles, or periods: one due to the binary orbit, and two more due to the rotation of spots on each star. Students will also produce simulations to better understand what types of systems can be detected. Ultimately, the results will help expand our understanding of how stars work.
 
@@ -114,7 +114,7 @@ the galaxies.
 
 # SPAMS: The Search for Planets Around post-Main Sequence Stars
 
-<img src="../images/brett.jpg" width="500px" height="500px">
+<img src="../images/brett.jpg">
 
 **Advisor:** [Brett Morris](http://staff.washington.edu/bmmorris/)
 
