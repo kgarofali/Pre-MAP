@@ -36,13 +36,13 @@ Students will analyze data from the Kepler spacecraft, looking for systems with 
 **Project Skills:** Basic familiarity with core Python packages, e.g. NumPy, matplotlib. Can commit changes to code with git and push to GitHub 
 <br>
 
-# Supernova Cosmology 
+# Light Curve Analysis and Photometric Redshifts of Supernova Type Ia
 
 **Advisors:** Lisa McBride and Dr. Rahul Biswas 
 
 **Description:** We now know that the universe is expanding at an accelerating rate due to the presence of dark energy. In order to better understand the nature of dark energy we will explore the effects that different expansion histories of the universe have on various observables. Here, we will work on some of key steps in supernova cosmology, where the intensity of light from supernovae Type Ia (SNIa), which are exploding stars of a specific kind, are recorded as a function of time (called light curves) and used to constrain models of cosmic expansion history.
 
-Usually, supernova cosmology involves characterizing supernova light curves in terms of emperical models, and using these to constrain cosmic expansion. This project will involve studying characterization of such light curves mostly using a python based code called SNCosmo (http://sncosmo.github.io), and simulated data for the LSST (http://www.lsst.org/), a survey in which the UW astronomy department is deeply engaged in. A major difference between current and future large surveys and older supernova surveys is that the newer surveys will have too many supernovae to follow-up spectroscopically. This study can assess some aspects (like determination of redshift) of the impact of this difference for LSST.
+Usually, supernova cosmology involves characterizing supernova light curves in terms of emperical models, and using these to constrain cosmic expansion. This project will involve studying characterization of such light curves mostly using a python based code called [SNCosmo](http://sncosmo.github.io), and simulated data for the [LSST](http://www.lsst.org/), one of the largest upcoming optical ground-based surveys, and one in which the UW astronomy department is deeply engaged in. A major difference between current and future large surveys and older supernova surveys is that the newer surveys will have too many supernovae to follow-up spectroscopically. This study can assess some aspects (like determination of redshift) of the impact of this difference for LSST.
 
 **Project Skills:** The project mostly involves coding in python, simulating and running analyses on large numbers of supernovae by building on code blocks (will be provided) for individual tasks.
 <br>
@@ -110,4 +110,20 @@ correlations between the black hole properties and the properties of
 the galaxies.
 
 **Project Skills:** python/numpy/pylab
+
+
+# SPAMS: The Search for Planets Around post-Main Sequence Stars
+
+<img src="../images/brett.jpg" width="500px" height="500px">
+
+**Advisor:** [Brett Morris](http://staff.washington.edu/bmmorris/)
+
+**Description:** As of September 2015 more than 5000 exoplanets, or planets orbiting stars other than the Sun, have been discovered. The most successful planet discovery method to date is the "transit method", which discovers planets by carefully monitoring the brightness of stars. If a star has an orbiting planet and its orbit brings the planet between the Earth and its host star, we can detect a slight dimming in the brightness of the host star during a "transit event" as the planet blocks out some of the star's light. The Kepler Mission has discovered more than 4000 candidate planets this way, but it mostly focused on searching for planets orbiting "middle-aged" stars like the Sun. 
+
+One question that was not answered by the Kepler mission is: what happens to the Kepler planets after their Sun-like host stars die? The Sun will reach the last stage in its life cycle when it becomes a white dwarf -- a very dense, small, hot star, roughly the size of the Earth. In the transition to the white dwarf phase, Mercury, Venus and maybe Earth are likely to be swallowed up by the swollen Sun, but more distant planets may survive. Some white dwarfs have been discovered that have metal pollution in their atmospheres, indicative of planetary material raining onto the surface of the star -- is that planetary material a destroyed planet? Can we find zombie planets that survive the inferno of stellar death around these still white-hot dead stars?
+
+The goal of this project will be to work with photometry (time-series brightness measurements) of white dwarfs collected by two of last years' Pre-MAP students from the ARC 3.5 m telescope and the ARCSAT 0.5 m telescope at the Apache Point Observatory. We will search these measurements for transits of undiscovered exoplanets, and put constraints on the minimum size of detectable planets in those data. We will also re-evaluate the SPAMS search strategy and update the SPAMS metal-polluted white dwarf database with recent discoveries. We will observe more white dwarfs with the ARCSAT 0.5 m telescope (remotely) if weather permits. Pending any planets discovered, you will also achieve ultimate glory. 
+
+
+**Project Skills:** Unix, Python
 
