@@ -37,8 +37,8 @@ This is subject to change. Keep checking the website and coming to class to keep
 </tr>
 <tr align="center">
 <td>4</td>
-<td><b>Oct. 19</b><br> Even MORE Python!! </td>
-<td><b>Oct. 21</b><br> OMG more Python <br> <b> ASSIGNED: </b>Python Homework 3</td>
+<td><b>Oct. 19</b><br> Even More Python </td>
+<td><b>Oct. 21</b><br> Yet More Python <br> <b> ASSIGNED: </b>Python Homework 3</td>
 <td><b>Oct. 23</b><br> Career Paths in Astronomy <br> <b>DUE:</b> Writing 3 (Astrobites), Python Homework 2 <br> <b> ASSIGNED: </b> Writing 4 (Personal Statement)</td>
 </tr>
 <tr align="center">
