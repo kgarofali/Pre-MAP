@@ -36,6 +36,19 @@ Students will analyze data from the Kepler spacecraft, looking for systems with 
 **Project Skills:** Basic familiarity with core Python packages, e.g. NumPy, matplotlib. Can commit changes to code with git and push to GitHub 
 <br>
 
+# Modeling Kepler Eclipsing Binaries
+
+**Advisors:** [Diana Windemuth](http://staff.washington.edu/windemut/) and [Professor Eric Agol](http://www.astro.washington.edu/users/agol/)
+
+**Description:** Most stars come in pairs*. When two stars orbit around each other, they form a binary system. In an eclipsing binary, one of the stars “eclipses” or passes in front of the other and blocks its light as viewed from Earth. This chance alignment between us and the binary allows us to extract fundamental properties of the system, such as the stars’ masses, radii, and temperatures. Accurate measurements of stellar mass, radius, and temperature are crucial across many fields of astronomy. For example, they are imperative to validate stellar evolution models, distinguish whether a transiting exoplanet is rocky like Earth or gaseous like Neptune, and understand how galaxies evolve with time. 
+
+This project will examine the light curves of Kepler eclipsing binaries and model each system’s orbits. By analyzing a system’s total light as a function of time, we will determine the orbital characteristics of the stars as well as their size and temperature. 
+
+* Coincidentally, this project pairs well with Project Tricycle. 
+
+**Project Skills:** python and its core packages (numpy, matplotlib), elemental statistical tests (chi^2 goodness of fit).
+<br> 
+
 # Light Curve Analysis and Photometric Redshifts of Supernova Type Ia
 
 **Advisors:** Lisa McBride and Dr. Rahul Biswas 
