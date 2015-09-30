@@ -21,12 +21,12 @@ This is subject to change. Keep checking the website and coming to class to keep
 <td>1</td>
 <td><b>Sept. 28</b><br> No Class</td>
 <td><b>Sept. 30</b><br> Introductions <br> <b>ASSIGNED:</b> Writing 1 (Astrobites)</td>
-<td><b>Oct. 2</b><br> Winter Enrollment & Pre-MAP Field Trips</td>
+<td><b>Oct. 2</b><br> Winter Enrollment, Pre-MAP Field Trips, Computer Set-Up</td>
 </tr>
 <tr align="center">
 <td>2</td>
 <td><b>Oct. 5</b><br> Intro to UNIX, Emacs <br> <b>DUE:</b> Writing 1 (Astrobites) <br> <b> ASSIGNED:</b> Emacs Bios</td>
-<td><b>Oct. 7</b><br> Learning and applying UNIX. <br> <b>DUE:</b> Emacs Bios <br> <b> ASSIGNED:</b> Unix Homework</td>
+<td><b>Oct. 7</b><br> Learning and applying UNIX, Writing 1 Discussion <br> <b>DUE:</b> Emacs Bios <br> <b> ASSIGNED:</b> Unix Homework</td>
 <td><b>Oct. 9</b><br> Research Mentor Project Presentations. <br> <b> ASSIGNED :</b> Writing 2 (Project Choices), due Oct. 11th</td>
 </tr>
 <tr align="center">
@@ -39,13 +39,13 @@ This is subject to change. Keep checking the website and coming to class to keep
 <td>4</td>
 <td><b>Oct. 19</b><br> Even More Python </td>
 <td><b>Oct. 21</b><br> Yet More Python <br> <b> ASSIGNED: </b>Python Homework 3</td>
-<td><b>Oct. 23</b><br> Career Paths in Astronomy <br> <b>DUE:</b> Writing 3 (Astrobites), Python Homework 2 <br> <b> ASSIGNED: </b> Writing 4 (Personal Statement)</td>
+<td><b>Oct. 23</b><br> Career Paths in Astronomy (Dr. Breanna Binder) <br> <b>DUE:</b> Writing 3 (Astrobites), Python Homework 2 <br> <b> ASSIGNED: </b> Writing 4 (Personal Statement)</td>
 </tr>
 <tr align="center">
 <td>5</td>
 <td><b>Oct. 26</b><br> Last Day of Python </td>
 <td><b>Oct. 28</b><br> Python Catch-up</td>
-<td><b>Oct. 30</b><br> Reproducibility in Research<br> <b>DUE:</b> Python 3, Writing 4 (Personal Statement)</td>
+<td><b>Oct. 30</b><br> Reproducibility in Research (Brett Morris)<br> <b>DUE:</b> Python 3, Writing 4 (Personal Statement)</td>
 </tr>
 <tr align="center">
 <td>6</td>
@@ -74,14 +74,14 @@ This is subject to change. Keep checking the website and coming to class to keep
 </tr>
 <tr align="center">
 <td>10</td>
-<td><b>Nov. 30</b><br> Introduction to Presentations </td>
+<td><b>Nov. 30</b><br> Introduction to Presentations (Monica Cortes Viharo) </td>
 <td><b>Dec. 2</b><br> Research </td>
 <td><b>Dec. 4</b><br> Research <br> <b>DUE:</b> Writing 6 (Research Writing) </td>
 </tr>
 <tr align="center">
 <td>11</td>
 <td><b>Dec. 7</b><br> Work on Presentations</td>
-<td><b>Dec. 9</b><br> Practice Presentations </td>
+<td><b>Dec. 9</b><br> Practice Presentations (Monica Cortes Viharo) </td>
 <td><b>Dec. 11</b><br> Final Research Presentations in C520</td>
 </tr>
 </table> 

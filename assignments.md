@@ -4,4 +4,4 @@ title: Assignments
 permalink: assignments/
 ---
 
-Check here for links to current and past assignments. 
+[Writing 1: Astrobites](../docs/Writing1.pdf): due Monday, October 5th
