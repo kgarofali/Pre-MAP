@@ -46,7 +46,7 @@ Students will analyze data from the Kepler spacecraft, looking for systems with 
 
 This project will examine the light curves of Kepler eclipsing binaries and model each system’s orbits. By analyzing a system’s total light as a function of time, we will determine the orbital characteristics of the stars as well as their size and temperature. 
 
-<nowiki>*</nowiki>Coincidentally, this project pairs well with Project Tricycle. 
+&#65121;Coincidentally, this project pairs well with Project Tricycle. 
 
 **Project Skills:** python and its core packages (numpy, matplotlib), elemental statistical tests (chi^2 goodness of fit).
 <br> 
