@@ -4,4 +4,4 @@ title: Annoucements
 permalink: annoucements/
 ---
 
-Check back here for information about upcoming lab tours, social activities, or important dates. 
+**Impostor Syndrome Workshop:** Friday, October 2nd at 2:30 pm in PAA 216
