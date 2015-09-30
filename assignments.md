@@ -5,4 +5,5 @@ permalink: assignments/
 ---
 
 [Writing 1: Astrobites](../docs/Writing1.pdf): due Monday, October 5th
+
 [Writing 1: Intro Slides](../docs/Writing1_IntroductionSlides.pdf)
