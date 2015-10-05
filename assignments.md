@@ -4,6 +4,10 @@ title: Assignments
 permalink: assignments/
 ---
 
+## Lectures
+
+[Ipython Notebooks](https://github.com/UWPreMAP/PreMAP2015)
+
 ## Writing 1: Due Monday, October 5th 
 [Writing 1: Astrobites](../docs/Writing1.pdf)
 
