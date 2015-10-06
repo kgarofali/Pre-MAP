@@ -4,4 +4,5 @@ title: Annoucements
 permalink: annoucements/
 ---
 
-**Impostor Syndrome Workshop:** Friday, October 2nd at 2:30 pm in PAA 216
+**Astronomy Department Welcome Reception:** Thursday, October 8th 3:30-5pm (C520) 
+**Primate Research Lab Tour:** Wednesday, November 18th 3:30pm (meet in the computer lab at 3:15pm)
