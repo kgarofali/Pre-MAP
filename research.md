@@ -64,34 +64,6 @@ Usually, supernova cosmology involves characterizing supernova light curves in t
 **Project Skills:** The project mostly involves coding in python, simulating and running analyses on large numbers of supernovae by building on code blocks (will be provided) for individual tasks.
 <br>
 
-# Searching for X-ray Emission from Interacting Supernovae and Supernova Impostors
-
-<table class="image">
-<tr><td><img src="../images/breanna.png" height="500px" width="500px"></td></tr>
-<tr><td class="caption" style="width: 500px"><font size="2">eta Carina, an erupting massive star in the Milky Way. If eta Carina were located in a nearby galaxy, we would call it a “supernova impostor” due to its giant eruptions.</font></td></tr>
-</table>
-<br>
-
-**Advisor:** [Dr. Breanna Binder](http://www.astro.washington.edu/users/bbinder/personal.html)
-
-**Description:** The late stages of very massive star evolution can be profoundly affected
-by interactions with the surrounding interstellar medium or with a binary companion. 
-During a supernova explosion, the ejected material can slam into the dense 
-circumstellar material and shock heat the gas to very high temperatures. Alternatively, 
-some massive stars undergo giant eruptions during the late stages of their evolution 
-(eta Carina is a famous example in the Milky Way), and it has recently been suggested 
-that interactions with a binary companion may be an important driver for trigger these 
-enormous outbursts. These major eruptions can sometimes be mistaken for 
-supernovae, earning this class of object the name “supernova impostors.” In this 
-project, you will search for X-ray emission from supernovae and supernova impostors 
-using archival observations from the Chandra X-ray Observatory. The goal of this 
-project is to find the fraction of these events that have associated X-ray emission, and to 
-search for correlations between X-ray emission and the properties of the progenitor star 
-and its environment.
-
-**Project Skills:** UNIX and Python for making plots. Students will also learn how to
-obtain and analyze data from the Chandra X-ray Observatory using CIAO, with instructor help.
-
 # APO 3.5m Dome Flow Analysis
 
 <img src="../images/joe1.png">
