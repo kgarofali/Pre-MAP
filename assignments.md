@@ -25,6 +25,13 @@ permalink: assignments/
 
 [Stars Handout](../docs/StarStuff.pdf)
 
+## Writing 2: Due Sunday, Oct 11th (5pm)
+
+[Writing 2](../docs/Writing2_Choosing.pdf)
+
+[Project Pitches 1](../docs/premap_blackholes15.pdf)
+
+[Project Pitches 2](../docs/ProjectPitches.pdf)
 
 
 
