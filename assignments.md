@@ -33,5 +33,10 @@ permalink: assignments/
 
 [Project Pitches 2](../docs/ProjectPitches.pdf)
 
+## Python 1: Due Friday, October 16th at 5 pm 
+
+[Python 1](../docs/Python1.pdf)
+
+
 
 

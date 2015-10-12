@@ -33,17 +33,17 @@ This is subject to change. Keep checking the website and coming to class to keep
 <td>3</td>
 <td><b>Oct. 12</b><br> Intro to Python <br> <b>DUE:</b> UNIX Homework <br> <b> ASSIGNED: </b> Python Homework 1</td>
 <td><b>Oct. 14</b><br> More Python! <br> </td>
-<td><b>Oct. 16</b><br> Internships <br> <b>DUE:</b> Python Homework 1 <br> <b> ASSIGNED: </b>: Writing 3 (Astrobites), Python Homework 2</td>
+<td><b>Oct. 16</b><br> Internships <br> <b>DUE:</b> Python Homework 1 <br> <b> ASSIGNED: </b>: Writing 3 (Astrobites)</td>
 </tr>
 <tr align="center">
 <td>4</td>
-<td><b>Oct. 19</b><br> Even More Python </td>
-<td><b>Oct. 21</b><br> Yet More Python <br> <b> ASSIGNED: </b>Python Homework 3</td>
+<td><b>Oct. 19</b><br> Even More Python <br> <b> ASSIGNED: </b>Python Homework 2</td>
+<td><b>Oct. 21</b><br> Yet More Python </td>
 <td><b>Oct. 23</b><br> Career Paths in Astronomy (Dr. Breanna Binder) <br> <b>DUE:</b> Writing 3 (Astrobites), Python Homework 2 <br> <b> ASSIGNED: </b> Writing 4 (Personal Statement)</td>
 </tr>
 <tr align="center">
 <td>5</td>
-<td><b>Oct. 26</b><br> Last Day of Python </td>
+<td><b>Oct. 26</b><br> Last Day of Python <br> <b> ASSIGNED: </b>Python Homework 3</td>
 <td><b>Oct. 28</b><br> Python Catch-up</td>
 <td><b>Oct. 30</b><br> Reproducibility in Research (Brett Morris)<br> <b>DUE:</b> Python 3, Writing 4 (Personal Statement)</td>
 </tr>
