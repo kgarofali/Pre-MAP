@@ -31,7 +31,7 @@ This is subject to change. Keep checking the website and coming to class to keep
 </tr>
 <tr align="center">
 <td>3</td>
-<td><b>Oct. 12</b><br> Intro to Python <br> <b>DUE:</b> UNIX Homework <br> <b> ASSIGNED: </b> Python Homework 1<td>
+<td><b>Oct. 12</b><br> Intro to Python <br> <b>DUE:</b> UNIX Homework <br> <b> ASSIGNED: </b>Python Homework 1<td>
 <td><b>Oct. 14</b><br> More Python! </td>
 <td><b>Oct. 16</b><br> Internships <br>  <b> ASSIGNED: </b>: Writing 3 (Personal Statement)</td>
 </tr>
