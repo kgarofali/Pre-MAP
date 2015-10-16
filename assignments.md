@@ -33,9 +33,17 @@ permalink: assignments/
 
 [Project Pitches 2](../docs/ProjectPitches.pdf)
 
-## Python 1: Due Friday, October 16th at 5 pm 
+## Python 1: Due Monday, October 19th at 5 pm
 
 [Python 1](../docs/Python1.pdf)
+
+## Writing 3: Due Friday, October 23rd at 5 pm 
+
+[Writing 3: Personal Statement](../docs/Writing3.pdf)
+
+[How to Write a Personal Statement](../docs/writing_personal_statement.pdf)
+
+[Internships/REUs Presenation](../docs/Summer_Internships.pdf)
 
 
 
