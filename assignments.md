@@ -41,7 +41,7 @@ permalink: assignments/
 
 [Writing 3: Personal Statement](../docs/Writing3.pdf)
 
-[How to Write a Personal Statement](../docs/writing_personal_statement.pdf)
+[How to Write a Personal Statement](../docs/writing_personal_statements.pdf)
 
 [Internships/REUs Presenation](../docs/Summer_Internships.pdf)
 
