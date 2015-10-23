@@ -45,6 +45,8 @@ permalink: assignments/
 
 [Internships/REUs Presenation](../docs/Summer_Internships.pdf)
 
+[Careers Talk Presentation](../docs/CareersTalk.pdf)
+
 ## Python 2: Due Monday, October 26th at 5 pm 
 
 [Python 2](../docs/Python2.pdf)
