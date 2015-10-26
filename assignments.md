@@ -51,6 +51,10 @@ permalink: assignments/
 
 [Python 2](../docs/Python2.pdf)
 
+## Python 3: Due MOnday, November 2nd at 5 pm 
+
+[Python 3](../docs/Python3.pdf)
+
 
 
 
