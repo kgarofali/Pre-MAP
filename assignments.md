@@ -55,6 +55,9 @@ permalink: assignments/
 
 [Python 3](../docs/Python3.pdf)
 
+## Writing 4 (Astrobites II): Due November 13th at 5 pm
+
+[Writing 4](../docs/Writing4.pdf)
 
 
 
