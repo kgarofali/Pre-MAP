@@ -56,19 +56,19 @@ This is subject to change. Keep checking the website and coming to class to keep
 
 <tr align="center">
 <td>7</td>
-<td><b>Nov. 9</b><br> Research <br> <b> DUE: </b> Writing 4 (Astrobites)</td>
+<td><b>Nov. 9</b><br> Research </td>
 <td><b>Nov. 11</b><br> No Class: Veteran's Day </td>
-<td><b>Nov. 13</b><br> Research <br> <b>ASSIGNED</b>: Writing 5 (Journal Article) <br> <b> DUE: </b> Writing 4 (Astrobites)</td>
+<td><b>Nov. 13</b><br> Research <br> <b> DUE: </b> Writing 4 (Astrobites)</td>
 </tr>
 <tr align="center">
 <td>8</td>
-<td><b>Nov. 16</b><br> Research</td>
+<td><b>Nov. 16</b><br> Research <br> <b>ASSIGNED</b>: Writing 5 (Journal Article)</td>
 <td><b>Nov. 18</b><br> Research</td>
-<td><b>Nov. 20</b><br> Department Journal Club <br> <b>DUE:</b> Writing 5 (Journal Article) </td>
+<td><b>Nov. 20</b><br> Department Journal Club  </td>
 </tr>
 <tr align="center">
 <td>9</td>
-<td><b>Nov. 23</b><br> Research </td>
+<td><b>Nov. 23</b><br> Research <br> <b>DUE:</b> Writing 5 (Journal Article)</td>
 <td><b>Nov. 25</b><br> Research<br> <b> ASSIGNED: </b> Writing 6 (Research Writing)</td>
 <td><b>Nov. 27</b><br> No Class: Day after Thanksgiving </td>
 </tr>
