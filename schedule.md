@@ -69,18 +69,18 @@ This is subject to change. Keep checking the website and coming to class to keep
 <tr align="center">
 <td>9</td>
 <td><b>Nov. 23</b><br> Research <br> <b>DUE:</b> Writing 5 (Journal Article)</td>
-<td><b>Nov. 25</b><br> Research<br> <b> ASSIGNED: </b> Writing 6 (Research Writing)</td>
+<td><b>Nov. 25</b><br> Research</td>
 <td><b>Nov. 27</b><br> No Class: Day after Thanksgiving </td>
 </tr>
 <tr align="center">
 <td>10</td>
-<td><b>Nov. 30</b><br> Introduction to Presentations (Monica Cortes Viharo) </td>
+<td><b>Nov. 30</b><br> Introduction to Presentations (Monica Cortes Viharo) <br> <b> ASSIGNED: </b> Writing 6 (Research Writing) </td>
 <td><b>Dec. 2</b><br> Research </td>
-<td><b>Dec. 4</b><br> Research <br> <b>DUE:</b> Writing 6 (Research Writing) </td>
+<td><b>Dec. 4</b><br> Research  </td>
 </tr>
 <tr align="center">
 <td>11</td>
-<td><b>Dec. 7</b><br> Work on Presentations</td>
+<td><b>Dec. 7</b><br> Work on Presentations <br> <b>DUE:</b> Writing 6 (Research Writing)</td>
 <td><b>Dec. 9</b><br> Practice Presentations (Monica Cortes Viharo) </td>
 <td><b>Dec. 11</b><br> Final Research Presentations in C520</td>
 </tr>
