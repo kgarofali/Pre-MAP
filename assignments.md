@@ -59,5 +59,12 @@ permalink: assignments/
 
 [Writing 4](../docs/Writing4.pdf)
 
+## Writing 5 (Journal Article): Due November 23rd at 5 pm 
+
+[Writing 5](../docs/Writing5.pdf)
+
+## Research Presentations from Department 
+
+[Research Talks](../docs/premap_jc.pdf)
 
 
