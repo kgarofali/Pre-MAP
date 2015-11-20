@@ -65,6 +65,7 @@ permalink: assignments/
 
 ## Research Presentations from Department 
 
-[Research Talks](../docs/premap_jc.pdf)
+[Research Talks Part 1](../docs/premap_jc_part1.pdf)
+[Research Talks Part 2](../docs/premap_jc_part2.pdf)
 
 
