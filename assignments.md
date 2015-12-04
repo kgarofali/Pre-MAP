@@ -68,4 +68,7 @@ permalink: assignments/
 [Research Talks Part 1](../docs/premap_jc_part1.pdf)
 [Research Talks Part 2](../docs/premap_jc_part2.pdf)
 
+## Writing 6 (Research Writing): Due December 7th at 5 pm 
+
+[Writing 6](../docs/Writing6.pdf)
 
