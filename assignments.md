@@ -72,3 +72,7 @@ permalink: assignments/
 
 [Writing 6](../docs/Writing6.pdf)
 
+## Final Presentation Rubric: 
+
+[Rubric](../docs/PresentationRubric.pdf)
+
